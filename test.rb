@@ -88,7 +88,6 @@ def calculate(mass, path)
               end
         end
     end
-    mass = fuel
   end
   fuel
 end
