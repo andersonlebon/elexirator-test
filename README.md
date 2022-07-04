@@ -15,6 +15,5 @@ run the following command in your terminal:
 ruby test.rb
 ```
 # Aknowledgements
-
 Thanks to everyone who will review this code.
 
